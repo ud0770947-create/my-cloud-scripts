@@ -1,5 +1,6 @@
 #!/bin/bash
-<<comment for i in 1 2 3 4 5 
+<<comment 
+for i in 1 2 3 4 5 
 do
 	echo " number: $i "
 done
