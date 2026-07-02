@@ -1,0 +1,6 @@
+greeting="namaste"
+name="anchal"
+full_greeting="$greeting $name"
+echo "1. add: $full_greeting"
+
+text="cloudeng"
